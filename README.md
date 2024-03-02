@@ -40,6 +40,8 @@ Privacy Rights.
 
 ### DOI:
 
+[![DOI](https://zenodo.org/badge/765523646.svg)](https://zenodo.org/doi/10.5281/zenodo.10740536)  
+
 ### Objective:
 
 The purpose of this case study is to introduce issues around data
