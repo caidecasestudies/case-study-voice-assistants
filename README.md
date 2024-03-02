@@ -28,7 +28,7 @@ Hadley Dixon and Robert Clements
 
 ### License:
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
 [<u>CC BY-NC-SA</u>](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 ### Citation:
